@@ -1,5 +1,5 @@
 from numba import jit
-import numpy as np  # math extention
+
 import random
 import math
 import os
